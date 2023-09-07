@@ -1,7 +1,3 @@
-# StudentManagementApp
-This application is pure written in java as backend and whatever data using in that application it will store in sql.
-
-# ScreenShot
 
 # Student Management System
 
