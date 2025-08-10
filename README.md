@@ -72,9 +72,3 @@ This project was created as a learning exercise and serves as a starting point f
 
 Thank you for using the Student Management System. If you have any questions or suggestions, please feel free to reach out.
 
-Have a great day!
-
-```
-
-You can use this README.md file in your GitHub repository to provide clear instructions and information about your Student Management System project.
-```
